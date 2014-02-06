@@ -1,4 +1,4 @@
-MCM-votaciones
-==============
+Hello World
+===========
 
-Sistema para creación de eventos de votación
+Mi primera aplicación en github
